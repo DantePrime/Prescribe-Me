@@ -1,0 +1,35 @@
+bot : Hi There! I am a medical chatbot. You can begin conversation by typing in a message and pressing enter.
+user : Aman Sharma
+bot : - This is a symptom of fever, you should take a tablet of crocin after you have your meal.
+user : I don't have fever
+bot : - okay. can you tell me what's wrong? what are your symptoms?
+user : I am feeling weak
+bot : - This is a symptom of fever, you should take a tablet of crocin after you have your meal.
+user : ok
+bot : - Good, now take some rest and then let me know if you are feeling better after having crocin.
+user : ok
+bot : - Good, now take some rest and then let me know if you are feeling better after having crocin.
+user : I am not feeling better
+bot : - okay. can you tell me what's wrong? what are your symptoms?
+user : Cough
+bot : - You should take a spoon full of benadryl after your meal.
+user : ok
+bot : - Good, now take some rest and then let me know if you are feeling better after having crocin.
+user : bye
+bot : - Bye. Nice talking to you
+user : Aman
+bot : - good to know. how may i assist you then?
+user : I am feeling weak
+bot : - This is a symptom of fever, you should take a tablet of crocin after you have your meal.
+user : I don't have fever
+bot : - okay. can you tell me what's wrong? what are your symptoms?
+user : My back is hurting
+bot : - okay, did you get hurt, or it is a suddern aching.
+user : sudden aching
+bot : - okay, did you get hurt, or it is a suddern aching.
+user : it is a sudden aching
+bot : - ok, is there a swelling or a physical deformity or bleeding at the aching region.
+user : bleeding
+bot : - okay, it is a common symptom of fracture, should I book an an appointment for you.
+user : yes
+bot : - Bye. Nice talking to you

@@ -1,0 +1,19 @@
+bot : Hi There! I am a medical chatbot. You can begin conversation by typing in a message and pressing enter.
+user : my name is aman
+bot : - Hello! your name has been stored. What is your age?
+user : my age is 21
+bot : - okay. your age has been stored. Which city do you live in?
+user : i live in mumbai
+bot : - okay location stored. Welcome to medical portal. Say Hi!
+user : hi
+bot : - Hello. How are you feeling today?
+user : i am feeling good
+bot : - good to know. how may i assist you then?
+user : i want to find the nearest hospital
+bot : - Thank you kindly. How are you feeling today?
+user : i am feeling weak
+bot : - This is a symptom of fever, you should take a tablet of crocin after you have your meal.
+user : ok
+bot : - Good, now take some rest and then let me know if you are feeling better after having crocin.
+user : i had crocin
+bot : - Good, now take some rest and then let me know if you are feeling better after having crocin.
